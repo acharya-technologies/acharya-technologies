@@ -1,7 +1,7 @@
 [![acharya-technologies GitHub stats](https://github-readme-stats.vercel.app/api?username=acharya-technologies)](https://github.com/anuraghazra/github-readme-stats)
 
 <body align="center">
-<h1 align="center">|| जय श्रीराम ||<br><h2>I'm Omkar Kulkarni</h2></h1>
+<h1 align="center">|| जय श्रीराम ||<br>I'm Omkar Kulkarni</h1>
 <h3 align="center">A passionate and beginner frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acharya-technologies&label=Profile%20views&color=0e75b6&style=flat" alt="acharya-technologies" /> </p>
