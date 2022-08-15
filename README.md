@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [acharya-technologies.tk](acharya-technologies.tk)
 
-- 💬 Ask me about **Anything about HTML,CSS. 😜**
+- 💬 Ask me **Anything about HTML,CSS. 😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
