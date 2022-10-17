@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [A school website. 🏫](https://koutukvs.cf)
 
-- 👨‍💻 All of my projects are available at [acharya-technologies.tk](acharya-technologies.tk)
+- 👨‍💻 All of my projects are available at [http://acharya-technologies.github.io](acharya-technologies.cf)
 
 - 💬 Ask me **Anything about HTML,CSS. 😜**
 
