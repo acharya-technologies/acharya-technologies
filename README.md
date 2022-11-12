@@ -1,4 +1,4 @@
-[![acharya-technologies GitHub stats](https://github-readme-stats.vercel.app/api?username=acharya-technologies)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align="center">|| जय श्रीराम ||<br>I'm Omkar Kulkarni</h1>
 
 <h3 align="center">A passionate and beginner frontend developer from India</h3>
