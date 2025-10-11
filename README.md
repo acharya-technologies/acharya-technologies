@@ -1,8 +1,12 @@
 <!-- Acharya Technologies GitHub Profile README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=⚡+Acharya+Technologies;Modernizing+Systems.;Forging+the+Future." alt="Typing Animation" />
-</h1>
+<h1 align="center">⚡ Acharya Technologies</h1>
+
+<p align="center">
+  <b>Modernizing Systems. Forging the Future.</b><br>
+  <i>Where precision meets purpose.</i>
+</p>
+
 
 <p align="center">
   <b>Where precision meets purpose.</b><br>
