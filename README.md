@@ -1,24 +1,69 @@
-[![acharya-technologies GitHub stats](https://github-readme-stats.vercel.app/api?username=acharya-technologies)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Acharya Technologies GitHub Profile README -->
 
-<h1 align="center">|| जय श्रीराम ||</h1><br>I'm Omkar Kulkarni</h1>
+<h1 align="center">⚡ Acharya Technologies</h1>
 
-<h3 align="center">A passionate and beginner frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=acharya-technologies&label=Profile%20views&color=0e75b6&style=flat" alt="acharya-technologies" /> </p>
-
-- 🔭 I’m currently working on [A school website. 🏫](https://koutukvs.cf)
-
-- 👨‍💻 All of my projects are available at [acharya-technologies.github.io](http://acharya-technologies.github.io)
-
-- 💬 Ask me **Anything about HTML,CSS. 😜**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/omkar.kulkarni.25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkar.kulkarni.25" height="30" width="40" /></a>
+<p align="center">
+  <b>Modernizing Systems. Forging the Future.</b><br>
+  <i>Where precision meets purpose.</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acharya-technologies&show_icons=true&locale=en&layout=compact" alt="acharya-technologies" /></p>
-</body>
+### 🏢 About Us
+
+**Acharya Technologies** is a full-stack software development agency building modern, high-performance solutions for institutions and enterprises.  
+We focus on transforming outdated systems into efficient, intelligent, and automated platforms — engineered with precision and built to scale.
+
+Our core principles are **clarity**, **reliability**, and **speed** — crafting technology that empowers people, not just systems.
+
+---
+
+### 🚀 Flagship Products
+
+#### 🧩 [TestForge](https://www.testforge.software)
+**TestForge** is our flagship automation platform designed for **MSBTE institutions**.  
+It streamlines examination workflows — from scheduling and supervision to reporting — bringing speed, accuracy, and control to academic administration.  
+Currently trusted by polytechnic colleges across Maharashtra.
+
+> The first in a line of intelligent automation tools from Acharya Technologies.  
+> More products are in development to expand our impact across industries.
+
+---
+
+### 🧠 What We Do
+
+- Institutional & enterprise software development  
+- Automation platforms and system modernization  
+- Full-stack web app engineering  
+- DevOps, CI/CD, and performance optimization  
+- Product design and architecture consulting  
+
+We build scalable digital infrastructure across diverse technologies — with a focus on automation and practical innovation.
+
+---
+
+### 🛠️ Core Stack
+
+| Area | Technologies |
+|------|---------------|
+| Backend | FastAPI, Node.js |
+| Frontend | React, Next.js, Tailwind CSS |
+| Database | PostgreSQL, MongoDB |
+| DevOps | Docker, Nginx |
+| Integration | REST APIs, AI Automation |
+
+---
+
+### 🌐 Connect With Us
+
+- **Website:** [acharya.is-local.org](https://acharya.is-local.org)  
+- **Product:** [testforge.software](https://www.testforge.software)  
+- **Email:** contact@acharya.is-local.org  
+- **Team Lead:** [1ndrajeet.is-a.dev](https://1ndrajeet.is-a.dev)
+
+---
+
+<p align="center">
+  <i>© 2025 Acharya Technologies. All Rights Reserved.</i><br>
+  <b>Engineering systems that last. Forging technologies that matter.</b>
+</p>
